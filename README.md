@@ -1,4 +1,7 @@
-My experiment presents different images of inanimate objects. In each trial, the participant needs to determine whether or not they see a face in the images.
-The stimuli consists of 10 images. Each stimulus is presented for half a second. After the image is presented, the participant must press 'Y' if they see a face, or 'N' if they don't.
-I will be recording the response they made and their reaction times.
-The data will be inputed into a .csv file.
+For this experiment, 10 images of inanimate objects are going to appear on the screen. The participant must determine whether or not they see a "face" in the image.
+
+The stimuli consist of 10 images of objects. Each stimulus is presented for half a second. The participant has to answer by pressing "Y" for yes, they do see a face, or "N" for no, they don't see a face. The participant has three seconds to answer the question before the experiment moves on.
+
+The responses I record are the keypresses and the reaction times. I'm recording this because I want to see how the reaction times of the participant change if they do see a face.
+
+I saved the data file into a .csv file. Each .csv file has the block number, trial number, the keypress response of each trial, and the reaction time of each trial.
