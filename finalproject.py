@@ -3,7 +3,7 @@
 #filename: finalproject.py (python file), subject100file.csv (data file)
 
 #This experiment presents different images of inanimate objects. The participant must determine whether or not they see a face in the image.
-#I made this experiment so I can analyze how people perceive inanimate objects and how it affects their reaction time.
+#I made this experiment so I can analyze how each participant perceives inanimate objects and how it affects their reaction time.
 
 #EXPERIMENT:
 
